@@ -1,0 +1,26 @@
+@CHARSET "ISO-8859-1";
+
+h2{
+	color: black;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 40px;
+	padding: 50px 10px 10px 10px;
+}
+
+h3{
+	color: black;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 60px;
+	padding: 10px 10px 10px 10px;
+}
+
+div.ex1 {
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    
+    background-color: #739021;
+   	/* border: 3px solid #73AD21; */
+}
